@@ -1,4 +1,4 @@
-# WWE Show Website
+# Site sobre WWE 
 
 Este é um projeto desenvolvido com HTML, CSS e JavaScript, focado em criar uma página interativa sobre a WWE (World Wrestling Entertainment), com ênfase nos dois principais shows: RAW e SmackDown. O objetivo principal do projeto foi colocar em prática meus estudos e implementar interações dinâmicas utilizando JavaScript.
 
